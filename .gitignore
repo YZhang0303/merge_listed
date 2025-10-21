@@ -56,3 +56,7 @@ Desktop.ini
 *.xlsx
 *.parquet
 *.jsonl
+*.csv
+*.txt
+*.pdf
+*.dta
